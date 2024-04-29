@@ -1,4 +1,4 @@
-# Survey_analysis
+# Student Experience Project Survey Analysis
 
 This project was built to retrieve written responses from an online survey and analyze and visualize the most frequently used words in order to identify common themes. The survey served to measure what university students missed most from in-person courses following the switch to remote learning in March 2020. As such, common words included: environment, interaction, campus, discussion, and person.
 
